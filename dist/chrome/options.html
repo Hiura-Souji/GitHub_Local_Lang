@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GitHub多國語言：翻譯服務設定</title>
+<style>
+:root{--bg:#fff;--fg:#1f2328;--muted:#59636e;--line:#d0d7de;--soft:#f6f8fa;--accent:#1f883d;--err:#d1242f}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--muted:#9198a1;--line:#30363d;--soft:#161b22;--accent:#2ea043;--err:#f85149}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Microsoft JhengHei",sans-serif}
+main{max-width:640px;margin:0 auto;padding:32px 16px}
+h1{font-size:20px;margin:0 0 4px;display:flex;align-items:center;gap:10px}
+h1 img{width:28px;height:28px}
+p.lead{color:var(--muted);margin:0 0 24px}
+.card{border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:16px}
+#mt{--mt-line:var(--line);--mt-bg:var(--bg);--mt-soft:var(--soft);--mt-accent:var(--accent);--mt-err:var(--err)}
+.mt-grid span{font-weight:600;font-size:13px}
+.note{font-size:12px;color:var(--muted);margin-top:8px}
+@media (max-width:480px){.mt-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main>
+  <h1><img src="icons/icon48.png" alt="">翻譯服務設定</h1>
+  <p class="lead">開啟「自動機器翻譯」後，未翻譯的介面字串會送到這裡選擇的服務。私人儲存庫頁面不會送出。</p>
+  <div class="card">
+    <div id="mt"></div>
+    <p class="note">AI 服務會依照目前語言的術語表翻譯，用語比 Google 翻譯一致；Claude、Gemini、OpenAI 都有便宜又快的模型，很適合翻譯介面文字。API 金鑰只存在擴充功能的本機儲存區，不會傳給 GitHub 網頁。第一次連線到某個服務時，瀏覽器會詢問是否允許。</p>
+  </div>
+</main>
+<script src="shared.js"></script>
+<script src="options.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<title>GitHub多國語言</title>
+<style>
+:root{--bg:#fff;--fg:#1f2328;--muted:#59636e;--line:#d8dee4;--hover:#f6f8fa;--accent:#1f883d}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--muted:#9198a1;--line:#30363d;--hover:#161b22;--accent:#2ea043}}
+body{margin:0;width:290px;background:var(--bg);color:var(--fg);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC","Microsoft JhengHei",sans-serif}
+header{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--line);font-weight:600}
+header img{width:20px;height:20px}
+section{padding:10px 14px;border-bottom:1px solid var(--line)}
+h3{margin:0 0 6px;font-size:12px;color:var(--muted);font-weight:600}
+label{display:flex;gap:8px;align-items:center;padding:5px 6px;border-radius:6px;cursor:pointer}
+label:hover{background:var(--hover)}
+input{accent-color:var(--accent);margin:0}
+button{width:100%;margin-top:6px;font:inherit;font-size:13px;padding:5px 10px;border-radius:6px;border:1px solid var(--line);background:var(--hover);color:inherit;cursor:pointer;text-align:left}
+.stat,.msg{font-size:12px;color:var(--muted);min-height:16px;margin-top:6px}
+footer{padding:8px 14px;font-size:11px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header><img src="icons/icon32.png" alt="">GitHub多國語言</header>
+<section><h3>介面語言（立即套用）</h3><div id="langs"></div></section>
+<section>
+  <h3>自動補齊翻譯</h3>
+  <label><input type="checkbox" id="collect"> 自動收集未翻譯的字串</label>
+  <label><input type="checkbox" id="automt"> 自動機器翻譯</label>
+  <div class="stat" id="stat"></div>
+  <button id="review">審核與匯出翻譯…</button>
+  <button id="options">翻譯服務設定…</button>
+  <div class="msg" id="msg"></div>
+</section>
+<footer id="ver"></footer>
+<script src="popup.js"></script>
+</body>
+</html>

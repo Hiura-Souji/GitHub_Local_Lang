@@ -1,0 +1,378 @@
+{
+ "No contributions on {date}.": [
+  "{date}沒有貢獻。",
+  "{date}のコントリビューションはありません。"
+ ],
+ "{n} contribution on {date}.": [
+  "{date}有 {n} 次貢獻。",
+  "{date}に {n} 件のコントリビューション"
+ ],
+ "{n} contributions on {date}.": [
+  "{date}有 {n} 次貢獻。",
+  "{date}に {n} 件のコントリビューション"
+ ],
+ "This contribution was made on {date}": [
+  "這筆貢獻於 {date} 完成",
+  "このコントリビューションは {date} に行われました"
+ ],
+ "Contribution activity in {n}, {n2} of {n3}": [
+  "{n} 年的貢獻活動（第 {n2} 項，共 {n3} 項）",
+  "{n} 年のコントリビューション アクティビティ（{n3} 件中 {n2} 件目）"
+ ],
+ "Repository menu: {repo}": [
+  "儲存庫選單：{repo}",
+  "リポジトリメニュー：{repo}"
+ ],
+ "Star this repository ({n})": [
+  "為此儲存庫加上星標（{n}）",
+  "このリポジトリに Star を付ける（{n}）"
+ ],
+ "Starred, click to unstar this repository ({n})": [
+  "已加上星標，按一下即可取消（{n}）",
+  "Star 済み。クリックで Star を外す（{n}）"
+ ],
+ "Unstar this repository ({n})": [
+  "取消此儲存庫的星標（{n}）",
+  "このリポジトリの Star を外す（{n}）"
+ ],
+ "Fork your own copy of {repo}": [
+  "將 {repo} 分叉一份到你的帳號",
+  "{repo} を自分のアカウントにフォーク"
+ ],
+ "Dismissed a repository from {repo}. Thank you for the feedback!": [
+  "已略過來自 {repo} 的儲存庫推薦。感謝你的意見回饋！",
+  "{repo} のリポジトリを非表示にしました。フィードバックありがとうございます！"
+ ],
+ "Dismissed a request from {repo}. Thank you for the feedback!": [
+  "已略過來自 {repo} 的推薦。感謝你的意見回饋！",
+  "{repo} のおすすめを非表示にしました。フィードバックありがとうございます！"
+ ],
+ "I'm not interested in {repo}": [
+  "我對 {repo} 沒興趣",
+  "{repo} には興味がない"
+ ],
+ "Link to social profile {n}": [
+  "社群帳號連結 {n}",
+  "ソーシャルプロフィールへのリンク {n}"
+ ],
+ "at least {n} characters": [
+  "至少 {n} 個字元",
+  "{n} 文字以上"
+ ],
+ "+ {n} releases": [
+  "還有 {n} 個發行版本",
+  "ほか {n} 件のリリース"
+ ],
+ "+ {n} release": [
+  "還有 {n} 個發行版本",
+  "ほか {n} 件のリリース"
+ ],
+ "+ {n} packages": [
+  "還有 {n} 個套件",
+  "ほか {n} 個のパッケージ"
+ ],
+ "Access for resources belonging to {user}": [
+  "{user} 所擁有資源的存取權",
+  "{user} が所有するリソースへのアクセス"
+ ],
+ "Budget utilization for {user}": [
+  "{user} 的預算使用率",
+  "{user} の予算使用率"
+ ],
+ "Cannot fork {repo}": [
+  "無法分叉 {repo}",
+  "{repo} をフォークできません"
+ ],
+ "Delete {repo}": [
+  "刪除 {repo}",
+  "{repo} を削除"
+ ],
+ "Make {repo} private": [
+  "將 {repo} 設為私人",
+  "{repo} をプライベートにする"
+ ],
+ "Make {repo} public": [
+  "將 {repo} 設為公開",
+  "{repo} をパブリックにする"
+ ],
+ "Archive {repo}": [
+  "封存 {repo}",
+  "{repo} をアーカイブ"
+ ],
+ "Rename {repo}": [
+  "重新命名 {repo}",
+  "{repo} の名前を変更"
+ ],
+ "Settings: {repo}": [
+  "設定：{repo}",
+  "設定：{repo}"
+ ],
+ "Pin {repo}": [
+  "釘選 {repo}",
+  "{repo} をピン留め"
+ ],
+ "Unpin {repo}": [
+  "取消釘選 {repo}",
+  "{repo} のピン留めを解除"
+ ],
+ "Pin {repo} to your profile": [
+  "將 {repo} 釘選到個人檔案",
+  "{repo} をプロフィールにピン留め"
+ ],
+ "Sponsor {repo}": [
+  "贊助 {repo}",
+  "{repo} をスポンサー"
+ ],
+ "Sponsor {user}": [
+  "贊助 {user}",
+  "{user} をスポンサー"
+ ],
+ "Star {repo}": [
+  "為 {repo} 加上星標",
+  "{repo} に Star を付ける"
+ ],
+ "Unstar {repo}": [
+  "取消 {repo} 的星標",
+  "{repo} の Star を外す"
+ ],
+ "Watch {repo}": [
+  "關注 {repo}",
+  "{repo} を Watch"
+ ],
+ "You can't star {repo}": [
+  "你無法為 {repo} 加上星標",
+  "{repo} に Star を付けることはできません"
+ ],
+ "Email a regular summary of Dependabot alerts for up to {n} of your repositories.": [
+  "定期以電子郵件寄送最多 {n} 個儲存庫的 Dependabot 警示摘要。",
+  "最大 {n} 個のリポジトリの Dependabot アラート概要を定期的にメールで送信します。"
+ ],
+ "Good morning, {user}!": [
+  "早安，{user}！",
+  "おはようございます、{user} さん！"
+ ],
+ "Good afternoon, {user}!": [
+  "午安，{user}！",
+  "こんにちは、{user} さん！"
+ ],
+ "Good evening, {user}!": [
+  "晚安，{user}！",
+  "こんばんは、{user} さん！"
+ ],
+ "Welcome back, {user}!": [
+  "歡迎回來，{user}！",
+  "おかえりなさい、{user} さん！"
+ ],
+ "{user}, Owner (Required)": [
+  "{user}，擁有者（必要）",
+  "{user}、オーナー（必須）"
+ ],
+ "Images should be at least {n}×{n2}px ({n3}×{n4}px for best display).": [
+  "圖片至少需 {n}×{n2} 像素（建議 {n3}×{n4} 像素以獲得最佳顯示效果）。",
+  "画像は {n}×{n2}px 以上にしてください（最適な表示は {n3}×{n4}px）。"
+ ],
+ "Last used within the last {n} years · Owned by": [
+  "過去 {n} 年內曾使用 · 擁有者：",
+  "過去 {n} 年以内に使用 · 所有者："
+ ],
+ "Last used within the last {n} weeks · Owned by": [
+  "過去 {n} 週內曾使用 · 擁有者：",
+  "過去 {n} 週間以内に使用 · 所有者："
+ ],
+ "Last used within the last {n} months · Owned by": [
+  "過去 {n} 個月內曾使用 · 擁有者：",
+  "過去 {n} か月以内に使用 · 所有者："
+ ],
+ "No recoverable packages were found for {user}.": [
+  "找不到 {user} 可復原的套件。",
+  "{user} の復元可能なパッケージは見つかりませんでした。"
+ ],
+ "Opened {n} issue in {n2} repository": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個議題",
+  "{n2} 個のリポジトリで {n} 件の Issue をオープン"
+ ],
+ "Opened {n} issues in {n2} repositories": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個議題",
+  "{n2} 個のリポジトリで {n} 件の Issue をオープン"
+ ],
+ "Opened {n} issues in {n2} repository": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個議題",
+  "{n2} 個のリポジトリで {n} 件の Issue をオープン"
+ ],
+ "Opened {n} pull request in {n2} repository": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個合併請求",
+  "{n2} 個のリポジトリで {n} 件のプルリクエストをオープン"
+ ],
+ "Opened {n} pull requests in {n2} repositories": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個合併請求",
+  "{n2} 個のリポジトリで {n} 件のプルリクエストをオープン"
+ ],
+ "Opened {n} pull requests in {n2} repository": [
+  "在 {n2} 個儲存庫中開啟了 {n} 個合併請求",
+  "{n2} 個のリポジトリで {n} 件のプルリクエストをオープン"
+ ],
+ "Created {n} commit in {n2} repository": [
+  "在 {n2} 個儲存庫中建立了 {n} 個提交",
+  "{n2} 個のリポジトリで {n} 件のコミットを作成"
+ ],
+ "Created {n} commits in {n2} repository": [
+  "在 {n2} 個儲存庫中建立了 {n} 個提交",
+  "{n2} 個のリポジトリで {n} 件のコミットを作成"
+ ],
+ "Created {n} commits in {n2} repositories": [
+  "在 {n2} 個儲存庫中建立了 {n} 個提交",
+  "{n2} 個のリポジトリで {n} 件のコミットを作成"
+ ],
+ "Created {n} repository": [
+  "建立了 {n} 個儲存庫",
+  "{n} 個のリポジトリを作成"
+ ],
+ "Created {n} repositories": [
+  "建立了 {n} 個儲存庫",
+  "{n} 個のリポジトリを作成"
+ ],
+ "Reviewed {n} pull request in {n2} repository": [
+  "在 {n2} 個儲存庫中審查了 {n} 個合併請求",
+  "{n2} 個のリポジトリで {n} 件のプルリクエストをレビュー"
+ ],
+ "Reviewed {n} pull requests in {n2} repositories": [
+  "在 {n2} 個儲存庫中審查了 {n} 個合併請求",
+  "{n2} 個のリポジトリで {n} 件のプルリクエストをレビュー"
+ ],
+ "Please upload a picture smaller than {n} MB.": [
+  "請上傳小於 {n} MB 的圖片。",
+  "{n} MB 未満の画像をアップロードしてください。"
+ ],
+ "Retention period must be {n} days or less.": [
+  "保留期限不得超過 {n} 天。",
+  "保持期間は {n} 日以下にしてください。"
+ ],
+ "Retention period must be between {n} and {n2} days.": [
+  "保留期限必須介於 {n} 到 {n2} 天之間。",
+  "保持期間は {n} ～ {n2} 日の範囲で指定してください。"
+ ],
+ "Select at least one repository. Max {n} repositories. Also includes public repositories (read-only).": [
+  "至少選擇一個儲存庫，最多 {n} 個。也包含公開儲存庫（唯讀）。",
+  "リポジトリを 1 つ以上選択してください（最大 {n} 個）。パブリックリポジトリ（読み取り専用）も含まれます。"
+ ],
+ "Selected {n} repositories.": [
+  "已選擇 {n} 個儲存庫。",
+  "{n} 個のリポジトリを選択しました。"
+ ],
+ "Selected {n} repository.": [
+  "已選擇 {n} 個儲存庫。",
+  "{n} 個のリポジトリを選択しました。"
+ ],
+ "Showing {n} to {n2} of {n3} budgets": [
+  "顯示第 {n}～{n2} 筆預算，共 {n3} 筆",
+  "{n3} 件中 {n}～{n2} 件の予算を表示"
+ ],
+ "Timeout must be {n} minutes or less.": [
+  "逾時時間不得超過 {n} 分鐘。",
+  "タイムアウトは {n} 分以下にしてください。"
+ ],
+ "Timeout must be {n} minutes or more.": [
+  "逾時時間至少需 {n} 分鐘。",
+  "タイムアウトは {n} 分以上にしてください。"
+ ],
+ "Usage for {date} - {date2}.": [
+  "{date} - {date2} 的用量。",
+  "{date} - {date2} の使用量。"
+ ],
+ "View {user}'s profile": [
+  "檢視 {user} 的個人檔案",
+  "{user} のプロフィールを表示"
+ ],
+ "You have reached your maximum of {n} selected repositories.": [
+  "已達可選擇的儲存庫上限（{n} 個）。",
+  "選択できるリポジトリの上限（{n} 個）に達しました。"
+ ],
+ "You're about to disable private vulnerability reporting on all public repositories in {user}.": [
+  "你即將停用 {user} 所有公開儲存庫的私人弱點回報。",
+  "{user} のすべてのパブリックリポジトリでプライベート脆弱性レポートを無効にしようとしています。"
+ ],
+ "You're about to enable private vulnerability reporting on all public repositories in {user}.": [
+  "你即將啟用 {user} 所有公開儲存庫的私人弱點回報。",
+  "{user} のすべてのパブリックリポジトリでプライベート脆弱性レポートを有効にしようとしています。"
+ ],
+ "immediately delete all of your repositories ({n})": [
+  "立即刪除你所有的儲存庫（{n} 個）",
+  "すべてのリポジトリ（{n} 個）を直ちに削除"
+ ],
+ "merged {n} commit": [
+  "合併了 {n} 個提交",
+  "{n} 件のコミットをマージ"
+ ],
+ "merged {n} commits": [
+  "合併了 {n} 個提交",
+  "{n} 件のコミットをマージ"
+ ],
+ "minutes ({n} hours).": [
+  "分鐘（{n} 小時）。",
+  "分（{n} 時間）。"
+ ],
+ ". Exports will be available for {n} days.": [
+  "。匯出檔將保留 {n} 天。",
+  "。エクスポートは {n} 日間利用できます。"
+ ],
+ "See the {n} items in this collection": [
+  "查看此精選集中的 {n} 個項目",
+  "このコレクションの {n} 件のアイテムを見る"
+ ],
+ "Address line {n}": [
+  "地址第 {n} 行",
+  "住所 {n} 行目"
+ ],
+ "Type {0} to search": [
+  "輸入 {0} 以搜尋",
+  "{0} を入力して検索"
+ ],
+ "Type {0} to search, {1} for commands": [
+  "輸入 {0} 以搜尋，{1} 開啟命令",
+  "{0} で検索、{1} でコマンド"
+ ],
+ "GitHub users are {0} to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement.": [
+  "GitHub 使用者{0}啟用雙重驗證，作為額外的安全措施。你在 GitHub 上的活動使你也適用這項要求。",
+  "GitHub ユーザーは、追加のセキュリティ対策として二要素認証を有効にすることが{0}。GitHub でのアクティビティにより、あなたもこの要件の対象です。"
+ ],
+ "GitHub users are {0} to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before {date}, or be restricted from account actions.": [
+  "GitHub 使用者{0}啟用雙重驗證，作為額外的安全措施。你在 GitHub 上的活動使你也適用這項要求。請在 {date}前為帳號啟用雙重驗證，否則將無法執行部分帳號操作。",
+  "GitHub ユーザーは、追加のセキュリティ対策として二要素認証を有効にすることが{0}。GitHub でのアクティビティにより、あなたもこの要件の対象です。{date} までにアカウントで二要素認証を有効にしないと、アカウントの操作が制限されます。"
+ ],
+ "to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement.": [
+  "啟用雙重驗證，作為額外的安全措施。你在 GitHub 上的活動使你也適用這項要求。",
+  "二要素認証を有効にしてください（追加のセキュリティ対策）。GitHub でのアクティビティにより、あなたもこの要件の対象です。"
+ ],
+ "to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before {date}, or be restricted from account actions.": [
+  "啟用雙重驗證，作為額外的安全措施。你在 GitHub 上的活動使你也適用這項要求。請在 {date}前為帳號啟用雙重驗證，否則將無法執行部分帳號操作。",
+  "二要素認証を有効にしてください（追加のセキュリティ対策）。GitHub でのアクティビティにより、あなたもこの要件の対象です。{date} までにアカウントで二要素認証を有効にしないと、アカウントの操作が制限されます。"
+ ],
+ "You will need to enable two-factor authentication on your account before {date}, or be restricted from account actions.": [
+  "請在 {date}前為帳號啟用雙重驗證，否則將無法執行部分帳號操作。",
+  "{date} までにアカウントで二要素認証を有効にしないと、アカウントの操作が制限されます。"
+ ],
+ "The default branch is considered the “base” branch in your repository, against which all pull requests and code commits are automatically made, unless you specify a different branch.": [
+  "預設分支會被視為儲存庫的「基底」分支；除非你另外指定，所有合併請求與程式碼提交都會自動以它為目標。",
+  "デフォルトブランチはリポジトリの「ベース」ブランチとみなされ、別のブランチを指定しない限り、すべてのプルリクエストとコードのコミットはこのブランチに対して自動的に行われます。"
+ ],
+ "The default branch is considered the \"base\" branch in your repository, against which all pull requests and code commits are automatically made, unless you specify a different branch.": [
+  "預設分支會被視為儲存庫的「基底」分支；除非你另外指定，所有合併請求與程式碼提交都會自動以它為目標。",
+  "デフォルトブランチはリポジトリの「ベース」ブランチとみなされ、別のブランチを指定しない限り、すべてのプルリクエストとコードのコミットはこのブランチに対して自動的に行われます。"
+ ],
+ "Template repositories let users generate new repositories with the same directory structure and files. {0}.": [
+  "範本儲存庫可讓使用者建立具有相同目錄結構與檔案的新儲存庫。{0}。",
+  "テンプレートリポジトリを使うと、同じディレクトリ構造とファイルを持つ新しいリポジトリを生成できます。{0}。"
+ ],
+ "Remember, contributions to this repository should follow its {0}.": [
+  "請記得，對此儲存庫的貢獻應遵守其{0}。",
+  "このリポジトリへのコントリビューションは、{0}に従う必要があります。"
+ ],
+ "Remember, contributions to this repository should follow its {0} and {1}.": [
+  "請記得，對此儲存庫的貢獻應遵守其{0}與{1}。",
+  "このリポジトリへのコントリビューションは、{0}と{1}に従う必要があります。"
+ ],
+ "Remember, contributions to this repository should follow its {0}, {1}, and {2}.": [
+  "請記得，對此儲存庫的貢獻應遵守其{0}、{1}與{2}。",
+  "このリポジトリへのコントリビューションは、{0}、{1}、{2}に従う必要があります。"
+ ]
+}
